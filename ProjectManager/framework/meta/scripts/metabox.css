@@ -1,0 +1,11 @@
+/* common rules for all fields */
+.it-label-td {width: 35% !important; }
+.it-label-td small{ color: #555; }
+.it-label { font-weight: bold; }
+
+/* select text */
+.it-text {width: 100% !important}
+
+/* select field */
+.it-select {height: auto !important; text-transform: capitalize; width: 100%; }
+.it-select option{ text-transform: capitalize; }

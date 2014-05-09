@@ -1,0 +1,124 @@
+/*----------------------------------------------------
+
+	* Responsive CSS
+	
+/*------------------------------------------------- */
+
+
+/* Apply To All Responsive Layouts
+================================================== */
+@media only screen and (max-width: 1159px) { }
+
+
+/* #Tablet (Portrait) = Design for a width of 730px
+================================================== */
+
+@media only screen and (min-width: 768px) and (max-width: 1159px) {
+
+	#content-left{display:none;}
+
+	/*grid*/
+	.outer-container{ width: 820px; }
+	.grid-1{ width: 770px; }
+	.grid-2{ width: 377px; }
+	.grid-3{ width: 240px; margin-right: 25px; margin-bottom: 25px; }
+	.grid-4{ width: 178px; }
+	.grid-5{ width: 139px; }
+	.grid-6{ width: 120px; margin-right: 25px; margin-bottom: 25px; }
+	
+	#post .grid-1{ width: 770px }
+	#post .grid-2{ width: 377px }
+	#post .grid-3{ width: 240px; margin-right: 25px; margin-bottom: 25px; }
+	#post .grid-4{ width: 178px; }
+	#post .grid-5{ width: 139px; }
+	#post .grid-6{ width: 120px; margin-right: 25px; margin-bottom: 25px; }
+
+	/*main*/
+	#post{ width: 770px }
+	#sidebar{ width: 205px }
+	
+}
+
+/* Mobile (Portrait) = Design for a width of 280px
+================================================== */
+
+@media only screen and (max-width: 767px) {
+	
+	/*grid*/
+	.outer-container{ width: 300px; }
+	.grid-1, .grid-2, .grid-3, .grid-4, .grid-5, .grid-6, #post .grid-1, #post .grid-2, #post .grid-3, #post .grid-4, #post .grid-5, #post .grid-6{ width: 250px; }
+	
+	#logo {display: none;}
+	
+	.nav-tabs > li, .nav-pills > li {float: left;width: 100%;text-align: left;border: 1px solid #dedede;margin-top: -1px;}
+	
+	/*main*/
+	#content-left {display: none;}
+	#content-main { width:250px !important; }
+	#post{ width: 100%; }
+	#sidebar{ width: 100%; }
+	#copyright  {width:92%;}
+	#footer-menu {width:92%;}
+	.hiddenimage {margin-top:0px;margin-bottom:0px;}
+
+	/* project completion header button */
+	#projcompletebtn {position: relative;top: 0px;clear: both;right: 0px;margin: 20px auto -20px 0;text-align: center;}
+	
+	#single-meta ul {width:300px !important;}
+	#single-meta li {width:260px !important;}
+	
+	/*move the user/login info to the top menu */
+	#responsive-login {display:inline-block;}
+	
+	/*shortcodes*/
+	.one-half,
+	.one-third,
+	.one-fourth,
+	.one-fifth,
+	.one-sixth,
+	.one-two-third,
+	.one-three-fourths { width: 100%; margin: 0 0 25px; }
+	
+	.alert-red.alignright,
+	.alert-yellow.alignright,
+	.alert-green.alignright,
+	.alert-blue.alignright,
+	.alert-red.alignleft,
+	.alert-yellow.alignleft,
+	.alert-green.alignleft,
+	.alert-blue.alignleft { width: 100%; margin: 25px 0; -moz-box-sizing: border-box; -webkit-box-sizing: border-box; box-sizing: border-box; }
+	
+	/*other*/
+	#404-page-title{ font-size: 80px; line-height: 80px; margin-bottom: 25px; }
+	#404-page-text{ margin-top: 0; }
+	
+	
+	/*comments*/
+	.children { margin: 30px 0 0; }
+	.children li.depth-2,
+	.children li.depth-3,
+	.children li.depth-4,
+	.children li.depth-5,
+	.children li.depth-6,
+	.children li.depth-7,
+	.children li.depth-8,
+	.children li.depth-9,
+	.children li.depth-10 { margin: 0 }
+       
+}
+
+
+/* Mobile (Landscape) = Design for a width of 440px
+================================================== */
+
+/* Note: Design for a width of 440px */
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+
+	/*move the user/login info to the top menu */
+	#responsive-login {display:inline-block;}
+	
+	/*grid*/
+	.outer-container{ width: 440px; }
+	.grid-1, .grid-2, .grid-3, .grid-4, .grid-5, .grid-6, #post .grid-1, #post .grid-2, #post .grid-3, #post .grid-4, #post .grid-5, #post .grid-6{ width: 390px; }
+	
+}

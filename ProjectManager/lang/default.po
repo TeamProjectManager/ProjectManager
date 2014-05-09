@@ -1,0 +1,1168 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: projectpress\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-04-25 2:35-0800\n"
+"PO-Revision-Date: 2013-04-25 2:35-0800\n"
+"Last-Translator: IcarusThemes\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../404.php:24
+msgid "Sorry, the page you are trying to access does not exist. You can go back to the homepage: "
+msgstr ""
+
+#: ../404.php:24
+msgid "homepage"
+msgstr ""
+
+#: ../author.php:14
+msgid "Posts by"
+msgstr ""
+
+#: ../comments.php:16
+msgid "Leave a reply"
+msgstr "Deixar Resposta"
+
+#: ../comments.php:17
+msgid "Name"
+msgstr ""
+
+#: ../comments.php:18
+msgid "Email"
+msgstr ""
+
+#: ../comments.php:19
+msgid "Website"
+msgstr ""
+
+#: ../comments.php:20
+msgid "Comment Navigation"
+msgstr ""
+
+#: ../comments.php:21
+msgid "Older Comments"
+msgstr ""
+
+#: ../comments.php:22
+msgid "Newer Comments"
+msgstr ""
+
+#: ../comments.php:23
+msgid "Submit Comment"
+msgstr "Enviar Comentário"
+
+#: ../comments.php:24
+msgid "Log In To Comment"
+msgstr ""
+
+#: ../footer.php:21
+msgid "Copyright"
+msgstr ""
+
+#: ../functions.php:75
+msgid "Top"
+msgstr ""
+
+#: ../functions.php:76
+msgid "Client"
+msgstr ""
+
+#: ../functions.php:77
+msgid "Footer"
+msgstr ""
+
+#: ../functions.php:78
+msgid "Responsive Top"
+msgstr ""
+
+#: ../functions.php:79
+msgid "Responsive Client"
+msgstr ""
+
+#: ../search.php:17
+#: ../search.php:36
+msgid "Search Results For"
+msgstr ""
+
+#: ../search.php:40
+msgid "No results found for that query."
+msgstr ""
+
+#: ../single.php:57
+msgid "Back to Project"
+msgstr ""
+
+#: ../template-projects.php:69
+msgid "All"
+msgstr ""
+
+#: ../framework/it_framework.php:8
+msgid "Framework location not defined."
+msgstr ""
+
+#: ../framework/admin/classes/class.options_machine.php:447
+msgid "Upload"
+msgstr ""
+
+#: ../framework/admin/front-end/options.php:42
+#: ../framework/admin/front-end/options.php:66
+msgid "Save All Changes"
+msgstr ""
+
+#: ../framework/admin/front-end/options.php:66
+msgid "Update Options"
+msgstr ""
+
+#: ../framework/admin/front-end/options.php:67
+msgid "Reset Options"
+msgstr ""
+
+#: ../library/admin_options.php:29
+#: ../library/admin_options.php:35
+msgid "Select"
+msgstr ""
+
+#: ../library/admin_options.php:68
+msgid "General Settings"
+msgstr ""
+
+#: ../library/admin_options.php:75
+msgid "Logos and Branding"
+msgstr ""
+
+#: ../library/admin_options.php:79
+msgid "Custom Logo (Main)"
+msgstr ""
+
+#: ../library/admin_options.php:80
+msgid "You can upload your main site logo here or paste the URL here."
+msgstr ""
+
+#: ../library/admin_options.php:85
+msgid "Custom Logo (Login)"
+msgstr ""
+
+#: ../library/admin_options.php:86
+msgid "You can upload a custom logo for the Wordpress Login Page here or paste the URL here."
+msgstr ""
+
+#: ../library/admin_options.php:91
+msgid "Custom Login Background"
+msgstr ""
+
+#: ../library/admin_options.php:92
+msgid "You can upload a custom background for the Wordpress Login Page here or paste the URL here."
+msgstr ""
+
+#: ../library/admin_options.php:97
+msgid "Custom Height - Login Logo"
+msgstr ""
+
+#: ../library/admin_options.php:98
+msgid "You can customize the height of the login logo if need be (the width should not be changed)"
+msgstr ""
+
+#: ../library/admin_options.php:103
+msgid "Responsive Menu Text"
+msgstr ""
+
+#: ../library/admin_options.php:104
+msgid "Custom Responsive text for menu."
+msgstr ""
+
+#: ../library/admin_options.php:109
+msgid "Favicon"
+msgstr ""
+
+#: ../library/admin_options.php:110
+msgid "Upload or paste the URL here for your favicon."
+msgstr ""
+
+#: ../library/admin_options.php:115
+msgid "Enable/Disable Randomized Passwords"
+msgstr ""
+
+#: ../library/admin_options.php:116
+msgid "Enable if you'd like ProjectPress to randomly generate passwords for users instead of having them specified."
+msgstr ""
+
+#: ../library/admin_options.php:122
+msgid "Show Projects List"
+msgstr ""
+
+#: ../library/admin_options.php:123
+msgid "Enable if you want to use the list of projects in the left hand menu bar."
+msgstr ""
+
+#: ../library/admin_options.php:129
+msgid "Show Projects"
+msgstr ""
+
+#: ../library/admin_options.php:130
+msgid "Disable if you want to hide the Projects Page (2nd link) from the left hand menu bar for everyone who is not an admin."
+msgstr ""
+
+#: ../library/admin_options.php:136
+msgid "User WP User Avatar"
+msgstr ""
+
+#: ../library/admin_options.php:137
+msgid "Enable if you'd like to use the WP User Avatar instead of Gravatar (Gravatar will still be backup source for user images)."
+msgstr ""
+
+#: ../library/admin_options.php:143
+msgid "Copyright"
+msgstr ""
+
+#: ../library/admin_options.php:144
+msgid "Your text/HTML for copyright goes here."
+msgstr ""
+
+#: ../library/admin_options.php:149
+msgid "Custom CSS"
+msgstr ""
+
+#: ../library/admin_options.php:150
+msgid "Place any Custom CSS you may have need of here."
+msgstr ""
+
+
+#: ../library/admin_options.php:157
+msgid "Page Links"
+msgstr ""
+
+#: ../library/admin_options.php:160
+msgid "Add Team Members Page Title"
+msgstr ""
+
+#: ../library/admin_options.php:161
+#: ../library/admin_options.php:167
+#: ../library/admin_options.php:173
+#: ../library/admin_options.php:179
+#: ../library/admin_options.php:185
+#: ../library/admin_options.php:191
+#: ../library/admin_options.php:197
+#: ../library/admin_options.php:203
+#: ../library/admin_options.php:209
+#: ../library/admin_options.php:215
+#: ../library/admin_options.php:221
+#: ../library/admin_options.php:227
+#: ../library/admin_options.php:233
+#: ../library/admin_options.php:239
+#: ../library/admin_options.php:245
+#: ../library/admin_options.php:251
+#: ../library/admin_options.php:257
+#: ../library/admin_options.php:263
+#: ../library/admin_options.php:269
+#: ../library/admin_options.php:275
+#: ../library/admin_options.php:281
+#: ../library/admin_options.php:287
+msgid "Paste the URL here."
+msgstr ""
+
+#: ../library/admin_options.php:166
+msgid "Add Team Members Page"
+msgstr ""
+
+#: ../library/admin_options.php:172
+msgid "Add Clients Page Title"
+msgstr ""
+
+#: ../library/admin_options.php:178
+msgid "Add Clients Page"
+msgstr ""
+
+#: ../library/admin_options.php:184
+msgid "My Projects Page Title"
+msgstr ""
+
+#: ../library/admin_options.php:190
+msgid "My Projects Page"
+msgstr ""
+
+#: ../library/admin_options.php:196
+msgid "My Project Log Title"
+msgstr ""
+
+#: ../library/admin_options.php:202
+msgid "My Project Log"
+msgstr ""
+
+#: ../library/admin_options.php:208
+msgid "My Tasks Page Title"
+msgstr ""
+
+#: ../library/admin_options.php:214
+msgid "My Tasks Page"
+msgstr ""
+
+#: ../library/admin_options.php:220
+msgid "Page for Add Projects Title"
+msgstr ""
+
+#: ../library/admin_options.php:226
+msgid "Page for Add Projects"
+msgstr ""
+
+#: ../library/admin_options.php:232
+msgid "Default Page for Projects Title"
+msgstr ""
+
+#: ../library/admin_options.php:238
+msgid "Default Page for Projects"
+msgstr ""
+
+#: ../library/admin_options.php:244
+msgid "Page for Team Page Title"
+msgstr ""
+
+#: ../library/admin_options.php:250
+msgid "Page for Team Page"
+msgstr ""
+
+#: ../library/admin_options.php:256
+msgid "Page for User Profiles - Single"
+msgstr ""
+
+#: ../library/admin_options.php:262
+msgid "Page for User Profiles - Single"
+msgstr ""
+
+#: ../library/admin_options.php:268
+msgid "Page for Client Page Title"
+msgstr ""
+
+#: ../library/admin_options.php:274
+msgid "Page for Client Page"
+msgstr ""
+
+#: ../library/admin_options.php:280
+msgid "Page for Client Profiles - Single Title"
+msgstr ""
+
+#: ../library/admin_options.php:286
+msgid "Page for Client Profiles - Single"
+msgstr ""
+
+#: ../library/admin_options.php:297
+msgid "Home Page"
+msgstr ""
+
+#: ../library/admin_options.php:304
+msgid "Homepage Tagline"
+msgstr ""
+
+#: ../library/admin_options.php:308
+msgid "Tagline Title"
+msgstr ""
+
+#: ../library/admin_options.php:309
+msgid "Leave blank in order to not show tagline title."
+msgstr ""
+
+#: ../library/admin_options.php:314
+msgid "Tagline URL"
+msgstr ""
+
+#: ../library/admin_options.php:315
+msgid "Leave blank for no link when tagline is clicked."
+msgstr ""
+
+#: ../library/admin_options.php:320
+msgid "Tagline"
+msgstr ""
+
+#: ../library/admin_options.php:321
+msgid "Enter content here - HTML and shortcodes allowed."
+msgstr ""
+
+#: ../library/admin_options.php:332
+msgid "Email Message Customization"
+msgstr ""
+
+#: ../library/admin_options.php:339
+msgid "Email Message Customization"
+msgstr ""
+
+#: ../library/admin_options.php:343
+msgid "New Project Subject"
+msgstr ""
+
+#: ../library/admin_options.php:344
+msgid "Leave blank for default value"
+msgstr ""
+
+#: ../library/admin_options.php:349
+msgid "New Project Message"
+msgstr ""
+
+#: ../library/admin_options.php:350
+msgid "Leave blank for default value"
+msgstr ""
+
+#: ../library/admin_options.php:355
+msgid "New Task Subject"
+msgstr ""
+
+#: ../library/admin_options.php:356
+msgid "Leave blank for default value"
+msgstr ""
+
+#: ../library/admin_options.php:361
+msgid "New Task Message"
+msgstr ""
+
+#: ../library/admin_options.php:362
+msgid "Leave blank for default value"
+msgstr ""
+
+#: ../library/admin_options.php:373
+msgid "Client Home Page"
+msgstr ""
+
+#: ../library/admin_options.php:380
+msgid "Client Homepage Tagline"
+msgstr ""
+
+#: ../library/admin_options.php:384
+msgid "Client Tagline Title"
+msgstr ""
+
+#: ../library/admin_options.php:385
+msgid "Leave blank in order to not show tagline title."
+msgstr ""
+
+#: ../library/admin_options.php:390
+msgid "Client Tagline URL"
+msgstr ""
+
+#: ../library/admin_options.php:391
+msgid "Leave blank for no link when tagline is clicked."
+msgstr ""
+
+#: ../library/admin_options.php:396
+msgid "Client Tagline"
+msgstr ""
+
+#: ../library/admin_options.php:397
+msgid "Enter content here - HTML and shortcodes allowed."
+msgstr ""
+
+#: ../library/admin_options.php:402
+msgid "Show/Hide Client Announcements"
+msgstr ""
+
+#: ../library/admin_options.php:403
+msgid "Do you want to show the client your latest blog post on their dashboard"
+msgstr ""
+
+#: ../library/admin_options.php:422
+msgid "Client Capabilities"
+msgstr ""
+
+#: ../library/admin_options.php:425
+msgid "Can Edit Deadline"
+msgstr ""
+
+#: ../library/admin_options.php:426
+msgid "Can your client edit the project deadline"
+msgstr ""
+
+#: ../library/admin_options.php:432
+msgid "Can Edit Project Title/Description"
+msgstr ""
+
+#: ../library/admin_options.php:433
+msgid "Can your client edit the project title or description"
+msgstr ""
+
+#: ../library/admin_options.php:439
+msgid "Can Add Tasks"
+msgstr ""
+
+#: ../library/admin_options.php:440
+msgid "Can your client add project tasks"
+msgstr ""
+
+#: ../library/admin_options.php:446
+msgid "Can Add Files"
+msgstr ""
+
+#: ../library/admin_options.php:447
+msgid "Can your client add project files"
+msgstr ""
+
+#: ../library/admin_options.php:459
+msgid "Blog"
+msgstr ""
+
+#: ../library/admin_options.php:466
+msgid "Main Blog"
+msgstr ""
+
+#: ../library/admin_options.php:470
+msgid "Show Full Content"
+msgstr ""
+
+#: ../library/admin_options.php:471
+msgid "Enable to show full post content."
+msgstr ""
+
+#: ../library/admin_options.php:477
+msgid "Post Excerpt Length"
+msgstr ""
+
+#: ../library/admin_options.php:478
+msgid "Enter a custom length for blog excerpts."
+msgstr ""
+
+#: ../library/admin_options.php:483
+msgid "Main Blog - Read More Button"
+msgstr ""
+
+#: ../library/admin_options.php:484
+msgid "Choose to show or hide the read more button on your blog pages."
+msgstr ""
+
+#: ../library/admin_options.php:490
+msgid "Image Hover Color"
+msgstr ""
+
+#: ../library/admin_options.php:491
+msgid "Choose your hover color when mousing over blog entries."
+msgstr ""
+
+#: ../library/admin_options.php:496
+msgid "Image Hover Opacity"
+msgstr ""
+
+#: ../library/admin_options.php:497
+msgid "Choose the opacity at which the above color is rendered. Choose from 0 - 1 (ex. .01, .02, .03, etc)"
+msgstr ""
+
+#: ../library/admin_options.php:502
+msgid "Main Blog - Featured Image Height"
+msgstr ""
+
+#: ../library/admin_options.php:503
+msgid "Default is 100% - you may increase or decrease it as you see fit."
+msgstr ""
+
+#: ../library/admin_options.php:513
+msgid "Single Posts"
+msgstr ""
+
+#: ../library/admin_options.php:517
+msgid "Post - Show Featured Image"
+msgstr ""
+
+#: ../library/admin_options.php:518
+msgid "Choose to show/hide the featured image"
+msgstr ""
+
+#: ../library/admin_options.php:524
+msgid "Post - Crop Featured Images"
+msgstr ""
+
+#: ../library/admin_options.php:525
+msgid "Enable to crop featured images, disabled to show full width."
+msgstr ""
+
+#: ../library/admin_options.php:531
+msgid "Post - Featured Image Height"
+msgstr ""
+
+#: ../library/admin_options.php:532
+msgid "Default is 100% - you may increase or decrease it as you see fit."
+msgstr ""
+
+#: ../library/admin_options.php:537
+msgid "Post - Meta"
+msgstr ""
+
+#: ../library/admin_options.php:538
+msgid "Choose to show or hide meta information on single blog posts. "
+msgstr ""
+
+#: ../library/admin_options.php:544
+msgid "Post - Tags"
+msgstr ""
+
+#: ../library/admin_options.php:545
+msgid "Choose to show or hide post tags on single blog posts. "
+msgstr ""
+
+#: ../library/admin_options.php:551
+msgid "Post - Related Posts"
+msgstr ""
+
+#: ../library/admin_options.php:552
+msgid "Choose to show or hide related posts on single blog posts. "
+msgstr ""
+
+#: ../library/admin_options.php:569
+msgid "Discussion"
+msgstr ""
+
+#: ../library/admin_options.php:572
+msgid "Comment Placeholder"
+msgstr ""
+
+#: ../library/admin_options.php:573
+msgid "Comment placeholder text"
+msgstr ""
+
+#: ../library/admin_options.php:578
+msgid "Show/Hide Comments On Blogs"
+msgstr ""
+
+#: ../library/admin_options.php:579
+msgid "Select to enable/disable comments on blog posts sitewide."
+msgstr ""
+
+#: ../library/admin_options.php:585
+msgid "Show/Hide Comments On Pages"
+msgstr ""
+
+#: ../library/admin_options.php:586
+msgid "Select to enable/disable comments on regular pages sitewide."
+msgstr ""
+
+#: ../library/admin_options.php:593
+msgid "Show/Hide Comments On Projects"
+msgstr ""
+
+#: ../library/admin_options.php:594
+msgid "Select to enable/disable comments on projects sitewide."
+msgstr ""
+
+#: ../library/admin_options.php:653
+msgid "Other Translations"
+msgstr ""
+
+#: ../library/admin_options.php:657
+msgid "Related Items"
+msgstr ""
+
+#: ../library/admin_options.php:658
+msgid "Custom related items text."
+msgstr ""
+
+#: ../library/admin_options.php:663
+msgid "Related Blog Posts"
+msgstr ""
+
+#: ../library/admin_options.php:664
+msgid "Custom related blog posts text."
+msgstr ""
+
+#: ../library/admin_options.php:669
+msgid "Read More Text"
+msgstr ""
+
+#: ../library/admin_options.php:670
+msgid "Custom read more text."
+msgstr ""
+
+#: ../library/admin_options.php:675
+msgid "Meta Information - "Tags""
+msgstr ""
+
+#: ../library/admin_options.php:676
+msgid "Custom "tags" text."
+msgstr ""
+
+#: ../library/admin_options.php:681
+msgid "Meta Information - "Post By""
+msgstr ""
+
+#: ../library/admin_options.php:682
+msgid "Custom "post by" text."
+msgstr ""
+
+#: ../library/admin_options.php:687
+msgid "Comments"
+msgstr ""
+
+#: ../library/admin_options.php:688
+msgid "Custom comments text."
+msgstr ""
+
+#: ../library/admin_options.php:693
+msgid "Comments Disabled"
+msgstr ""
+
+#: ../library/admin_options.php:694
+msgid "Custom comments disabled text."
+msgstr ""
+
+#: ../library/admin_options.php:699
+msgid "Leave a reply"
+msgstr ""
+
+#: ../library/admin_options.php:700
+msgid "Custom leave a reply text."
+msgstr ""
+
+#: ../library/admin_options.php:705
+msgid "Name"
+msgstr ""
+
+#: ../library/admin_options.php:706
+msgid "Custom "name" text."
+msgstr ""
+
+#: ../library/admin_options.php:711
+msgid "Email"
+msgstr ""
+
+#: ../library/admin_options.php:712
+msgid "Custom "Email" text."
+msgstr ""
+
+#: ../library/admin_options.php:717
+msgid "Comment Navigation"
+msgstr ""
+
+#: ../library/admin_options.php:718
+msgid "Custom "navigation" text."
+msgstr ""
+
+#: ../library/admin_options.php:729
+msgid "Older Comments"
+msgstr ""
+
+#: ../library/admin_options.php:730
+msgid "Custom "older comments" text."
+msgstr ""
+
+#: ../library/admin_options.php:735
+msgid "Newer Comments"
+msgstr ""
+
+#: ../library/admin_options.php:736
+msgid "Custom "newer comments" text."
+msgstr ""
+
+#: ../library/admin_options.php:741
+msgid "Reply To Comment"
+msgstr ""
+
+#: ../library/admin_options.php:742
+msgid "Custom "reply to comment" text."
+msgstr ""
+
+#: ../library/admin_options.php:747
+msgid "Post Comment"
+msgstr ""
+
+#: ../library/admin_options.php:748
+msgid "Custom "post comment" text."
+msgstr ""
+
+#: ../library/admin_options.php:753
+msgid "Log In To Post Comment"
+msgstr ""
+
+#: ../library/admin_options.php:754
+msgid "Custom "Log in to Post Comment" text."
+msgstr ""
+
+#: ../library/admin_options.php:759
+msgid "Search Results - Entries Found"
+msgstr ""
+
+#: ../library/admin_options.php:760
+msgid "Custom search results text - entries found."
+msgstr ""
+
+#: ../library/admin_options.php:765
+msgid "Search Results - Nothing Found'"
+msgstr ""
+
+#: ../library/admin_options.php:766
+msgid "Enter search results text - nothing found."
+msgstr ""
+
+#: ../library/admin_options.php:771
+msgid "404 Error"
+msgstr ""
+
+#: ../library/admin_options.php:772
+msgid "Custom 404 text."
+msgstr ""
+
+#: ../library/admin_options.php:784
+msgid "Analytics"
+msgstr ""
+
+#: ../library/admin_options.php:795
+msgid "Analytics Code (Header)"
+msgstr ""
+
+#: ../library/admin_options.php:796
+msgid "Input your Google Analytics (or similiar) code here. Anything placed here will be added into header.php."
+msgstr ""
+
+#: ../library/admin_options.php:801
+msgid "Analytics Code (Footer)"
+msgstr ""
+
+#: ../library/admin_options.php:802
+msgid "Input your Google Analytics (or similiar) code here. Anything placed here will be added into footer.php."
+msgstr ""
+
+#: ../library/admin_options.php:812
+#: ../library/admin_options.php:819
+msgid "Theme Updates"
+msgstr ""
+
+#: ../library/admin_options.php:823
+msgid "ThemeForest Username"
+msgstr ""
+
+#: ../library/admin_options.php:824
+msgid "Your ThemeForest Username"
+msgstr ""
+
+#: ../library/admin_options.php:829
+msgid "Themeforest API Key"
+msgstr ""
+
+#: ../library/admin_options.php:830
+msgid "Enter your API Key."
+msgstr ""
+
+#: ../library/admin_options.php:839
+msgid "Menu Options Credit"
+msgstr ""
+
+#: ../library/admin_options.php:846
+msgid "This theme uses the Options Framework with a bit of customization added for extra functionality."
+msgstr ""
+
+#: ../library/custom_post_menus.php:
+msgid ""
+msgstr ""
+
+#: ../library/custom_post_menus.php:12
+msgid "ToDo Options"
+msgstr ""
+
+#: ../library/custom_post_menus.php:17
+msgid "ToDo Assignment"
+msgstr ""
+
+#: ../library/custom_post_menus.php:19
+msgid "The id of the person who is assigned this todo"
+msgstr ""
+
+#: ../library/custom_post_menus.php:25
+msgid "Deadline: Month"
+msgstr ""
+
+#: ../library/custom_post_menus.php:26
+msgid "What month is this todo due?"
+msgstr ""
+
+#: ../library/custom_post_menus.php:44
+msgid "Timelog Options"
+msgstr ""
+
+#: ../library/custom_post_menus.php:50
+msgid "Project Relation"
+msgstr ""
+
+#: ../library/custom_post_menus.php:51
+msgid "What project is this related to?"
+msgstr ""
+
+#: ../library/custom_post_menus.php:81
+msgid "Project Options"
+msgstr ""
+
+#: ../library/custom_post_menus.php:86
+msgid "Project Deadline"
+msgstr ""
+
+#: ../library/custom_post_menus.php:87
+msgid "This is used for WP Sorting - do not alter unless you keep the initial format"
+msgstr ""
+
+#: ../library/custom_post_menus.php:93
+msgid "Project Assignment"
+msgstr ""
+
+#: ../library/custom_post_menus.php:94
+msgid "The id of the person who is assigned this project?"
+msgstr ""
+
+#: ../library/custom_post_menus.php:100
+msgid "Project Client"
+msgstr ""
+
+#: ../library/custom_post_menus.php:101
+msgid "Select the client whom this project is for?"
+msgstr ""
+
+#: ../library/custom_post_menus.php:106
+msgid "Is the project complete?"
+msgstr ""
+
+#: ../library/custom_post_menus.php:108
+msgid "Is the project complete?"
+msgstr ""
+
+#: ../library/custom_post_menus.php:124
+msgid "Post Options"
+msgstr ""
+
+#: ../library/custom_post_menus.php:128
+msgid "Featured Image"
+msgstr ""
+
+#: ../library/custom_post_menus.php:130
+msgid "You can enable or disable the featured image"
+msgstr ""
+
+#: ../library/custom_post_menus.php:138
+msgid "Tags"
+msgstr ""
+
+#: ../library/custom_post_menus.php:145
+msgid "You can enable or disable the tags."
+msgstr ""
+
+#: ../library/custom_post_menus.php:167
+msgid "Page Template Options"
+msgstr ""
+
+#: ../library/custom_post_menus.php:171
+msgid "Blog Category"
+msgstr ""
+
+#: ../library/custom_post_menus.php:175
+msgid "If a blog page, select a category."
+msgstr ""
+
+#: ../library/custom_post_menus.php:178
+msgid "Project Category"
+msgstr ""
+
+#: ../library/custom_post_menus.php:183
+msgid "Select a category for this project page."
+msgstr ""
+
+#: ../library/custom_post_menus.php:186
+msgid "Results Per Page"
+msgstr ""
+
+#: ../library/custom_post_menus.php:187
+msgid "Specify how many projects/team members you want to show per page on pages with pagination"
+msgstr ""
+
+#: ../library/custom_post_menus.php:193
+msgid "Column Style"
+msgstr ""
+
+#: ../library/custom_post_menus.php:196
+msgid "Select the number of columns for projects/team members"
+msgstr ""
+
+#: ../library/custom_post_menus.php:206
+msgid "Column Image Height"
+msgstr ""
+
+#: ../library/custom_post_menus.php:207
+msgid "Default is 100% - you may increase or decrease it as you see fit."
+msgstr ""
+
+#: ../library/custom_post_menus.php:213
+msgid "Show Completed Projects"
+msgstr ""
+
+#: ../library/custom_post_menus.php:214
+msgid "If a project page, show only complete?"
+msgstr ""
+
+#: ../library/custom_post_menus.php:223
+msgid "Show Draft Projects"
+msgstr ""
+
+#: ../library/custom_post_menus.php:224
+msgid "If a project page, show only drafts?"
+msgstr ""
+
+#: ../library/post_types.php:45
+msgid "TimeLog"
+msgstr ""
+
+#: ../library/post_types.php:46
+msgid "TimeLog"
+msgstr ""
+
+#: ../library/post_types.php:47
+msgid "Add New"
+msgstr ""
+
+#: ../library/post_types.php:48
+msgid "Add New TimeLog"
+msgstr ""
+
+#: ../library/post_types.php:49
+msgid "Edit TimeLog"
+msgstr ""
+
+#: ../library/post_types.php:50
+msgid "New TimeLog"
+msgstr ""
+
+#: ../library/post_types.php:51
+msgid "View TimeLog"
+msgstr ""
+
+#: ../library/post_types.php:52
+msgid "Search TimeLog items"
+msgstr ""
+
+#: ../library/post_types.php:53
+msgid "No TimeLog items found"
+msgstr ""
+
+#: ../library/post_types.php:54
+msgid "No TimeLog Items found in Trash"
+msgstr ""
+
+#: ../library/post_types.php:80
+msgid "ToDo"
+msgstr ""
+
+#: ../library/post_types.php:81
+msgid "Add New"
+msgstr ""
+
+#: ../library/post_types.php:82
+msgid "Add New ToDo"
+msgstr ""
+
+#: ../library/post_types.php:83
+msgid "Edit ToDo"
+msgstr ""
+
+#: ../library/post_types.php:84
+msgid "New ToDo"
+msgstr ""
+
+#: ../library/post_types.php:85
+msgid "View ToDo"
+msgstr ""
+
+#: ../library/post_types.php:86
+msgid "Search ToDo items"
+msgstr ""
+
+#: ../library/post_types.php:87
+msgid "No ToDo items found"
+msgstr ""
+
+#: ../library/post_types.php:88
+msgid "No ToDo Items found in Trash"
+msgstr ""
+
+#: ../library/post_types.php:143
+msgid "Projects"
+msgstr ""
+
+#: ../library/post_types.php:144
+msgid "Project"
+msgstr ""
+
+#: ../library/post_types.php:145
+msgid "Add New"
+msgstr ""
+
+#: ../library/post_types.php:146
+msgid "Add New Project"
+msgstr ""
+
+#: ../library/post_types.php:147
+msgid "Edit Project"
+msgstr ""
+
+#: ../library/post_types.php:148
+msgid "New Project"
+msgstr ""
+
+#: ../library/post_types.php:149
+msgid "View Project"
+msgstr ""
+
+#: ../library/post_types.php:150
+msgid "Search Projects"
+msgstr ""
+
+#: ../library/post_types.php:151
+msgid "No Projects found"
+msgstr ""
+
+#: ../library/post_types.php:152
+msgid "No Projects found in Trash"
+msgstr ""
+
+#: ../library/taxonomies.php:17
+msgid "Categories"
+msgstr ""
+
+#: ../library/taxonomies.php:18
+msgid "Category"
+msgstr ""
+
+#: ../library/taxonomies.php:19
+msgid "Search Categories"
+msgstr ""
+
+#: ../library/taxonomies.php:20
+msgid "All Categories"
+msgstr ""
+
+#: ../library/taxonomies.php:21
+msgid "Parent Category"
+msgstr ""
+
+#: ../library/taxonomies.php:22
+msgid "Parent Category:"
+msgstr ""
+
+#: ../library/taxonomies.php:23
+msgid "Edit Category"
+msgstr ""
+
+#: ../library/taxonomies.php:24
+msgid "Update Category"
+msgstr ""
+
+#: ../library/taxonomies.php:25
+msgid "Add New Category"
+msgstr ""
+
+#: ../library/taxonomies.php:26
+msgid "New Category Name"
+msgstr ""
+
+#: ../library/taxonomies.php:27
+msgid "Choose from the most used categories"
+msgstr ""
+
+#: ../library/widget_areas.php:6
+msgid "Sidebar"
+msgstr ""
+
+#: ../library/widget_areas.php:8
+msgid "Main Widget Area"
+msgstr ""
